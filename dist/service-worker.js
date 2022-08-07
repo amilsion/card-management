@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.8bc048612a4f7efcd67dc8db9147d940.js"
+  "/precache-manifest.2c0d5ab3b2605ffbcd45a57abe8cfb00.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "Gerenciamento-de-cartoes"});
