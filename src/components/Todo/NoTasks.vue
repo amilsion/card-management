@@ -10,7 +10,7 @@
         <div
             class="text-h5 primary--text"
         >
-            No Tasks
+            Não tem cartão cadastrado
         </div>
     </div>
 </div>
