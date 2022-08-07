@@ -1,4 +1,4 @@
-# vue-todo
+# card-management
 
 ## Project setup
 ```

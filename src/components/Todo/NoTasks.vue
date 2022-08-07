@@ -10,7 +10,7 @@
         <div
             class="text-h5 primary--text"
         >
-            Não tem cartão cadastrado
+           Sem cartão
         </div>
     </div>
 </div>
